@@ -2,8 +2,8 @@
 - 👋 I’m @t-koester and im 15 years old!
 
 ## What i learn rn:
-- 🌱 I’m currently learning how to code PHP.
-- ✨ Also i learn how to code JS Private!
+- 🌱 I’m currently learning how to code Python.
+- ✨ Also i learn how to code PHP Private!
 
 ## Contact me:
 - 📫 Reach me on Telegram: @just_tammo!
